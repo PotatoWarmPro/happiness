@@ -17,7 +17,7 @@ npm run build
 
 ### Lints and fixes files
 ```
-npm run lint 11113333
+npm run lint 11113333阿斯顿发斯蒂芬
 ```
 
 ### Customize configuration
